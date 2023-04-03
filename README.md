@@ -12,4 +12,5 @@
 - .Html persing 작업을 통한 자동 대관 정리 프로그램 제작
 
 #### Directory
- - dist: executable 파일 
+ - dist: executable 파일 제작
+ 
