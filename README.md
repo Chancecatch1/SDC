@@ -1,10 +1,10 @@
-### < Automatic Studio Sorting Program for SDC >
+### < Automated Booking Program for SDC >
 
 #### Title
-- [Automatic Studio Sorting Program for SDC](https://www.sfac.or.kr/participation/application/sfac_artspace.do)
+- [Automated Booking Program for SDC](https://www.sfac.or.kr/participation/application/sfac_artspace.do)
 
 #### Schedule
-- 2023-03 ~
+- 2023-03
 
 #### Contents
 - 스튜디오 대관현황(3개년) 통합 정리
